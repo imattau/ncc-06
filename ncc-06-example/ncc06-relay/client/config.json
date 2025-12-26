@@ -1,7 +1,9 @@
 {
   "relayUrl": "ws://127.0.0.1:7000",
-  "servicePubkey": "0693694772a2fb8e88c3383cbdb1e7b7623af95bedb70348eadbb136ad403663",
-  "ncc02ExpectedKey": "TESTKEY:Ncc06TestKey",
+  "serviceIdentityUri": "wss://npub1vqxphn2gkgatg3t9gpeetsz00xdlaxz2rv8m6lurauxrvryce0sqhfctjw",
+  "servicePubkey": "600c1bcd48b23ab44565407395c04f799bfe984a1b0fbd7f83ef0c360c98cbe0",
+  "serviceNpub": "npub1vqxphn2gkgatg3t9gpeetsz00xdlaxz2rv8m6lurauxrvryce0sqhfctjw",
+  "ncc02ExpectedKey": "TESTKEY:relay-local-dev-1",
   "serviceId": "relay",
   "locatorId": "relay-locator",
   "torPreferred": false,
