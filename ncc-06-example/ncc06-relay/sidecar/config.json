@@ -1,0 +1,10 @@
+{
+  "sidecarPrivateKey": "e34944e68e1c74e91a249c76393852c39ba60a77946cfe7576f5453b939d76c2",
+  "sidecarPublicKey": "0693694772a2fb8e88c3383cbdb1e7b7623af95bedb70348eadbb136ad403663",
+  "relayUrl": "ws://127.0.0.1:7000",
+  "ncc02ExpectedKey": "MISMATCHED_KEY",
+  "ncc02ExpSeconds": 3600,
+  "ncc05TtlSeconds": 3600,
+  "serviceId": "relay",
+  "locatorId": "relay-locator"
+}

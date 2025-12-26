@@ -1,0 +1,10 @@
+{
+  "relayUrl": "ws://127.0.0.1:7000",
+  "servicePubkey": "0693694772a2fb8e88c3383cbdb1e7b7623af95bedb70348eadbb136ad403663",
+  "ncc02ExpectedKey": "TESTKEY:Ncc06TestKey",
+  "serviceId": "relay",
+  "locatorId": "relay-locator",
+  "torPreferred": false,
+  "locatorSecretKey": "65c43815be17b643c5e1730061488d33123045336feb81b130714e8e5b1b0d95",
+  "locatorFriendPubkey": "b536446a35f8c448b04eeb505a328816e8e09f9d35913253a25171ae6473ca21"
+}
